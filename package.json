@@ -19,6 +19,16 @@
   },
   "version": "1.0.0",
   "description": "",
+  "keywords": [
+    "next",
+    "next.js",
+    "ant design",
+    "emotion",
+    "react",
+    "boilerplate"
+  ],
+  "url": "https://github.com/teamairship/next-antd-emotion-boilerplate",
+  "homepage": "https://github.com/teamairship/next-antd-emotion-boilerplate",
   "author": "Airship",
-  "license": "ISC"
+  "license": "MIT"
 }

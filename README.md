@@ -65,3 +65,9 @@ For the initial page load, `getInitialProps` will execute on the server only. `g
 _Note: `getInitialProps` can **not** be used in children components. Only in `pages`._
 
 Read more about [fetching data and the component lifecycle](https://github.com/zeit/next.js#fetching-data-and-component-lifecycle)
+
+---
+
+MIT License.
+
+---
