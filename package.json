@@ -1,0 +1,24 @@
+{
+  "name": "next-antd-emotion-boilerplate",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "antd": "^3.10.0",
+    "babel-plugin-emotion": "^9.2.11",
+    "babel-plugin-import": "^1.9.1",
+    "babel-plugin-inline-import": "^3.0.0",
+    "emotion": "^9.2.12",
+    "emotion-server": "^9.2.12",
+    "next": "^7.0.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-emotion": "^9.2.12"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "author": "Airship",
+  "license": "ISC"
+}
